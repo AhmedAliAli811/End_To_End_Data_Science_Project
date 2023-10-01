@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data science Projects/End to End Data science project/DS_Project_Repo/End_To_End_Data_Science_Project/notebooks/../models/mlruns/372234719956380473/cb93dfbd0b1e45ed8b425c904a32807f/artifacts
+end_time: 1696183384265
+entry_point_name: ''
+experiment_id: '372234719956380473'
+lifecycle_stage: active
+run_id: cb93dfbd0b1e45ed8b425c904a32807f
+run_name: 'Baseline model: Logistic Regression '
+run_uuid: cb93dfbd0b1e45ed8b425c904a32807f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696183384218
+status: 3
+tags: []
+user_id: aly86
