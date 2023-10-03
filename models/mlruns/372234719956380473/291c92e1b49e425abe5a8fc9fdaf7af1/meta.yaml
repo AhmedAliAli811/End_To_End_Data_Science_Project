@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data science Projects/End to End Data science project/DS_Project_Repo/End_To_End_Data_Science_Project/notebooks/../models/mlruns/372234719956380473/291c92e1b49e425abe5a8fc9fdaf7af1/artifacts
+end_time: 1696322170405
+entry_point_name: ''
+experiment_id: '372234719956380473'
+lifecycle_stage: active
+run_id: 291c92e1b49e425abe5a8fc9fdaf7af1
+run_name: 'Random Forest: with PCA + Hyperparamter tuning'
+run_uuid: 291c92e1b49e425abe5a8fc9fdaf7af1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696321971159
+status: 3
+tags: []
+user_id: aly86

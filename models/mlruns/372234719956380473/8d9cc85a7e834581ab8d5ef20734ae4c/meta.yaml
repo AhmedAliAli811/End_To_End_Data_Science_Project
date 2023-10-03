@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data science Projects/End to End Data science project/DS_Project_Repo/End_To_End_Data_Science_Project/notebooks/../models/mlruns/372234719956380473/8d9cc85a7e834581ab8d5ef20734ae4c/artifacts
+end_time: 1696316825755
+entry_point_name: ''
+experiment_id: '372234719956380473'
+lifecycle_stage: active
+run_id: 8d9cc85a7e834581ab8d5ef20734ae4c
+run_name: 'Random Forest: with PCA - Basic'
+run_uuid: 8d9cc85a7e834581ab8d5ef20734ae4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696316802146
+status: 3
+tags: []
+user_id: aly86
